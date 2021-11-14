@@ -58,6 +58,12 @@ If you have any questions about the project of [ultimate-go-cn](https://github.c
 
 **Blog**: [yuancf1024的博客](https://yuancf1024.github.io/) https://yuancf1024.github.io/
 
+### Github Stats
+
+| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuancf1024)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuancf1024&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/yuancf1024/ultimate-go-cn.svg)](https://starchart.cc/yuancf1024/ultimate-go-cn)
+
